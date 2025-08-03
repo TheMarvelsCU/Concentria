@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Concentria Logo](Design a modern, fut.png)
+![Concentria Logo](Logo.png)
 
 **A complete digital privacy protection ecosystem that empowers users to monitor, understand, and control their digital footprint**
 
