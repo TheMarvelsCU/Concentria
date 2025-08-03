@@ -930,7 +930,7 @@ SOFTWARE.
 - **Documentation**: https://github.com/TheMarvelsCU/Concentria/wiki
 - **Issues**: https://github.com/TheMarvelsCU/Concentria/issues
 - **Discussions**: https://github.com/TheMarvelsCU/Concentria/discussions
-- **Email**: support@concentria.com
+- **Email**: themarvelscu@gmail.com
 
 ---
 
