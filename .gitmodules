@@ -1,3 +1,9 @@
 [submodule "Concentria-FrontEnd"]
 	path = Concentria-FrontEnd
 	url = https://github.com/TheMarvelsCU/Concentria-FrontEnd
+[submodule "Concentria-Backend"]
+	path = Concentria-Backend
+	url = https://github.com/TheMarvelsCU/Concentria-Backend
+[submodule "Concentria-Extention"]
+	path = Concentria-Extention
+	url = https://github.com/TheMarvelsCU/Concentria-Extention
